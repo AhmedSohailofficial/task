@@ -1,0 +1,580 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "M171 Wireless Mouse",
+      "category": "Mouse",
+      "price": 1595,
+      "stock": 3,
+      "isOnSale": true,
+      "images": [
+        "http://localhost:3001/images/products/m170-2.png",
+        "http://localhost:3001/images/products/m170-2.png",
+        "http://localhost:3001/images/products/m170-3.png"
+      ],
+      "brand": "Logitech",
+      "keyFeatures": [
+        {
+          "title": "RELIABLE 2.4GHZ WIRELESS",
+          "image": "/images/products/m170-f1.jpg",
+          "detail": "Strong, consistent wireless connection from distances up to 10-meters (33-feet) away. "
+        },
+        {
+          "title": "12-MONTH BATTERY LIFE",
+          "image": "/images/products/m170-f2.jpg",
+          "detail": "Work for up to a year between battery changes."
+        },
+        {
+          "title": "PLUG-AND-PLAY CONNECTION",
+          "image": "/images/products/m170-f3.jpg",
+          "detail": "The M170/mouse Wireless Mouse is truly plug and play"
+        },
+        {
+          "title": "COMFORTABLE AND MOBILE",
+          "image": "/images/products/m170-f4.jpg",
+          "detail": "The shape of the mouse supports your hand for hours of comfortable use."
+        }
+      ],
+      "specs": [
+        {
+          "title": "Operating System",
+          "detail": "Mac OS® X 10.8 or later, Chrome OS, Linux 2.6+"
+        },
+        {
+          "title": "Connection Type",
+          "detail": "2.4 Ghz wireless"
+        },
+        {
+          "title": "USB",
+          "detail": "USB port 3.0"
+        },
+        {
+          "title": "Wireless Range",
+          "detail": "10 m (33 ft)"
+        },
+        {
+          "title": "Battery",
+          "detail": "1 x AA"
+        },
+        {
+          "title": "Battery Life",
+          "detail": "1 year"
+        },
+        {
+          "title": "Package Contents",
+          "detail": "Mouse, Receiver, User documentation"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "M221 Wireless Mouse",
+      "category": "Mouse",
+      "price": 1695,
+      "stock": 3,
+      "isOnSale": true,
+      "images": [
+        "http://localhost:3001/images/products/m221-1.webp",
+        "http://localhost:3001/images/products/m221-2.webp",
+        "http://localhost:3001/images/products/m221-3.webp"
+      ],
+      "brand": "Logitech",
+      "keyFeatures": [
+        {
+          "title": "RELIABLE 2.4GHZ WIRELESS",
+          "image": "/images/products/m170-f1.jpg",
+          "detail": "Strong, consistent wireless connection from distances up to 10-meters (33-feet) away. "
+        },
+        {
+          "title": "12-MONTH BATTERY LIFE",
+          "image": "/images/products/m170-f2.jpg",
+          "detail": "Work for up to a year between battery changes."
+        },
+        {
+          "title": "PLUG-AND-PLAY CONNECTION",
+          "image": "/images/products/m170-f3.jpg",
+          "detail": "The M170/mouse Wireless Mouse is truly plug and play"
+        },
+        {
+          "title": "COMFORTABLE AND MOBILE",
+          "image": "/images/products/m170-f4.jpg",
+          "detail": "The shape of the mouse supports your hand for hours of comfortable use."
+        }
+      ],
+      "specs": [
+        {
+          "title": "Operating System",
+          "detail": "Mac OS® X 10.8 or later, Chrome OS, Linux 2.6+"
+        },
+        {
+          "title": "Connection Type",
+          "detail": "2.4 Ghz wireless"
+        },
+        {
+          "title": "USB",
+          "detail": "USB port 3.0"
+        },
+        {
+          "title": "Wireless Range",
+          "detail": "10 m (33 ft)"
+        },
+        {
+          "title": "Battery",
+          "detail": "1 x AA"
+        },
+        {
+          "title": "Battery Life",
+          "detail": "1 year"
+        },
+        {
+          "title": "Package Contents",
+          "detail": "Mouse, Receiver, User documentation"
+        }
+      ],
+      "packageContents": ["Mouse", "Receiver", "User documentation"]
+    },
+    {
+      "id": 3,
+      "title": "M337 Wireless Mouse",
+      "category": "Mouse",
+      "price": 1300,
+      "stock": 3,
+      "isOnSale": true,
+      "images": [
+        "http://localhost:3001/images/products/m337-1.webp",
+        "http://localhost:3001/images/products/m337-2.webp",
+        "http://localhost:3001/images/products/m337-3.webp"
+      ],
+      "brand": "Logitech",
+      "keyFeatures": [
+        {
+          "title": "RELIABLE 2.4GHZ WIRELESS",
+          "image": "/images/products/m170-f1.jpg",
+          "detail": "Strong, consistent wireless connection from distances up to 10-meters (33-feet) away. "
+        },
+        {
+          "title": "12-MONTH BATTERY LIFE",
+          "image": "/images/products/m170-f2.jpg",
+          "detail": "Work for up to a year between battery changes."
+        },
+        {
+          "title": "PLUG-AND-PLAY CONNECTION",
+          "image": "/images/products/m170-f3.jpg",
+          "detail": "The M170/mouse Wireless Mouse is truly plug and play"
+        },
+        {
+          "title": "COMFORTABLE AND MOBILE",
+          "image": "/images/products/m170-f4.jpg",
+          "detail": "The shape of the mouse supports your hand for hours of comfortable use."
+        }
+      ],
+      "specs": [
+        {
+          "title": "Operating System",
+          "detail": "Mac OS® X 10.8 or later, Chrome OS, Linux 2.6+"
+        },
+        {
+          "title": "Connection Type",
+          "detail": "2.4 Ghz wireless"
+        },
+        {
+          "title": "USB",
+          "detail": "USB port 3.0"
+        },
+        {
+          "title": "Wireless Range",
+          "detail": "10 m (33 ft)"
+        },
+        {
+          "title": "Battery",
+          "detail": "1 x AA"
+        },
+        {
+          "title": "Battery Life",
+          "detail": "1 year"
+        },
+        {
+          "title": "Package Contents",
+          "detail": "Mouse, Receiver, User documentation"
+        }
+      ],
+      "packageContents": ["Mouse", "Receiver", "User documentation"]
+    },
+    {
+      "id": 4,
+      "title": "K270 Wireless Keyboard",
+      "category": "Keyboard",
+      "price": 2200,
+      "stock": 3,
+      "isOnSale": true,
+      "images": [
+        "http://localhost:3001/images/products/k270-1.png",
+        "http://localhost:3001/images/products/k270-2.png",
+        "http://localhost:3001/images/products/k270-3.png"
+      ],
+      "brand": "Logitech",
+      "keyFeatures": [
+        {
+          "title": "RELIABLE 2.4GHZ WIRELESS",
+          "image": "/images/products/m170-f1.jpg",
+          "detail": "Strong, consistent wireless connection from distances up to 10-meters (33-feet) away. "
+        },
+        {
+          "title": "12-MONTH BATTERY LIFE",
+          "image": "/images/products/m170-f2.jpg",
+          "detail": "Work for up to a year between battery changes."
+        },
+        {
+          "title": "PLUG-AND-PLAY CONNECTION",
+          "image": "/images/products/m170-f3.jpg",
+          "detail": "The M170/mouse Wireless Mouse is truly plug and play"
+        },
+        {
+          "title": "COMFORTABLE AND MOBILE",
+          "image": "/images/products/m170-f4.jpg",
+          "detail": "The shape of the mouse supports your hand for hours of comfortable use."
+        }
+      ],
+      "specs": [
+        {
+          "title": "Operating System",
+          "detail": "Mac OS® X 10.8 or later, Chrome OS, Linux 2.6+"
+        },
+        {
+          "title": "Connection Type",
+          "detail": "2.4 Ghz wireless"
+        },
+        {
+          "title": "USB",
+          "detail": "USB port 3.0"
+        },
+        {
+          "title": "Wireless Range",
+          "detail": "10 m (33 ft)"
+        },
+        {
+          "title": "Battery",
+          "detail": "1 x AA"
+        },
+        {
+          "title": "Battery Life",
+          "detail": "1 year"
+        },
+        {
+          "title": "Package Contents",
+          "detail": "Mouse, Receiver, User documentation"
+        }
+      ],
+      "packageContents": ["Mouse", "Receiver", "User documentation"]
+    },
+    {
+      "id": 5,
+      "title": "K120 USB Keyboard",
+      "category": "Keyboard",
+      "price": 2000,
+      "stock": 3,
+      "isOnSale": true,
+      "images": [
+        "http://localhost:3001/images/products/k120-3.webp",
+        "http://localhost:3001/images/products/k120-2.webp",
+        "http://localhost:3001/images/products/k120-1.webp"
+      ],
+      "brand": "Logitech",
+      "keyFeatures": [
+        {
+          "title": "RELIABLE 2.4GHZ WIRELESS",
+          "image": "/images/products/m170-f1.jpg",
+          "detail": "Strong, consistent wireless connection from distances up to 10-meters (33-feet) away. "
+        },
+        {
+          "title": "12-MONTH BATTERY LIFE",
+          "image": "/images/products/m170-f2.jpg",
+          "detail": "Work for up to a year between battery changes."
+        },
+        {
+          "title": "PLUG-AND-PLAY CONNECTION",
+          "image": "/images/products/m170-f3.jpg",
+          "detail": "The M170/mouse Wireless Mouse is truly plug and play"
+        },
+        {
+          "title": "COMFORTABLE AND MOBILE",
+          "image": "/images/products/m170-f4.jpg",
+          "detail": "The shape of the mouse supports your hand for hours of comfortable use."
+        }
+      ],
+      "specs": [
+        {
+          "title": "Operating System",
+          "detail": "Mac OS® X 10.8 or later, Chrome OS, Linux 2.6+"
+        },
+        {
+          "title": "Connection Type",
+          "detail": "2.4 Ghz wireless"
+        },
+        {
+          "title": "USB",
+          "detail": "USB port 3.0"
+        },
+        {
+          "title": "Wireless Range",
+          "detail": "10 m (33 ft)"
+        },
+        {
+          "title": "Battery",
+          "detail": "1 x AA"
+        },
+        {
+          "title": "Battery Life",
+          "detail": "1 year"
+        },
+        {
+          "title": "Package Contents",
+          "detail": "Mouse, Receiver, User documentation"
+        }
+      ],
+      "packageContents": ["Mouse", "Receiver", "User documentation"]
+    },
+    {
+      "id": 6,
+      "title": "C922 Pro Stream HD Webcam",
+      "category": "Webcam",
+      "price": 2500,
+      "stock": 3,
+      "isOnSale": true,
+      "images": [
+        "http://localhost:3001/images/products/c922-1.png",
+        "http://localhost:3001/images/products/c922-2.png",
+        "http://localhost:3001/images/products/c922-3.png"
+      ],
+      "brand": "Logitech",
+      "keyFeatures": [
+        {
+          "title": "RELIABLE 2.4GHZ WIRELESS",
+          "image": "/images/products/m170-f1.jpg",
+          "detail": "Strong, consistent wireless connection from distances up to 10-meters (33-feet) away. "
+        },
+        {
+          "title": "12-MONTH BATTERY LIFE",
+          "image": "/images/products/m170-f2.jpg",
+          "detail": "Work for up to a year between battery changes."
+        },
+        {
+          "title": "PLUG-AND-PLAY CONNECTION",
+          "image": "/images/products/m170-f3.jpg",
+          "detail": "The M170/mouse Wireless Mouse is truly plug and play"
+        },
+        {
+          "title": "COMFORTABLE AND MOBILE",
+          "image": "/images/products/m170-f4.jpg",
+          "detail": "The shape of the mouse supports your hand for hours of comfortable use."
+        }
+      ],
+      "specs": [
+        {
+          "title": "Operating System",
+          "detail": "Mac OS® X 10.8 or later, Chrome OS, Linux 2.6+"
+        },
+        {
+          "title": "Connection Type",
+          "detail": "2.4 Ghz wireless"
+        },
+        {
+          "title": "USB",
+          "detail": "USB port 3.0"
+        },
+        {
+          "title": "Wireless Range",
+          "detail": "10 m (33 ft)"
+        },
+        {
+          "title": "Battery",
+          "detail": "1 x AA"
+        },
+        {
+          "title": "Battery Life",
+          "detail": "1 year"
+        },
+        {
+          "title": "Package Contents",
+          "detail": "Mouse, Receiver, User documentation"
+        }
+      ],
+      "packageContents": ["Mouse", "Receiver", "User documentation"]
+    }
+  ],
+  "categories": [
+    {
+      "title": "Mouse",
+      "description": "Logitech  Bluetooth Mouses are a compact lightweight wireless mouse that's comfortable to use on the go, at home or in office. It connects to computers and any other devices supporting Bluetooth wireless technology. That eliminates the unsightly clutter of wires.",
+      "image": "http://localhost:3001/images/categories/mouse.webp"
+    },
+    {
+      "title": "Keyboard",
+      "description": "Trusted legacy. Lasting durability. The keyboard features a solid aluminum build with expertly engineered Romer-GTM mechanical switches. ",
+      "image": "http://localhost:3001/images/categories/keyboard.webp"
+    },
+    {
+      "title": "Webcam",
+      "description": "For on-the-go professionals, Logitech HD Webcam makes it easy to bring a webcam to every meeting. The compact, folding design simplifies travel, and features a universal mounting clip for your laptop or other device. High-definition video presents clear images for every participant to see.",
+      "image": "http://localhost:3001/images/categories/webcam.png"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "productId": 1,
+      "userId": 1,
+      "date": "08/17/2020",
+      "rating": 4,
+      "title": "Nice Product and professional service",
+      "comment": "I am pleases with Logitech for working in Pakistan. I just recently bought mouse, it is a nice wireless mouse and performing better than what I had from Dell last time.",
+      "isApproved": true
+    },
+    {
+      "id": 2,
+      "productId": 1,
+      "userId": 2,
+      "date": "08/17/2020",
+      "rating": 3,
+      "title": "Nice Product and professional service",
+      "comment": "I am pleases with Logitech for working in Pakistan. I just recently bought mouse, it is a nice wireless mouse and performing better than what I had from Dell last time.",
+      "isApproved": true
+    },
+    {
+      "email": "",
+      "id": 3,
+      "productId": 1,
+      "userId": 3,
+      "date": "08/17/2020",
+      "rating": 5,
+      "title": "Nice Product and professional service",
+      "comment": "I am pleases with Logitech for working in Pakistan. I just recently bought mouse, it is a nice wireless mouse and performing better than what I had from Dell last time.",
+      "isApproved": false
+    },
+    {
+      "id": 4,
+      "productId": 2,
+      "userId": 4,
+      "date": "08/17/2020",
+      "rating": 4,
+      "title": "Nice Product and professional service",
+      "comment": "I am pleases with Logitech for working in Pakistan. I just recently bought mouse, it is a nice wireless mouse and performing better than what I had from Dell last time.",
+      "isApproved": false
+    },
+    {
+      "id": 5,
+      "productId": 3,
+      "userId": 5,
+      "date": "08/17/2020",
+      "rating": 3,
+      "title": "Nice Product and professional service",
+      "comment": "I am pleases with Logitech for working in Pakistan. I just recently bought mouse, it is a nice wireless mouse and performing better than what I had from Dell last time.",
+      "isApproved": true
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Ali Usman",
+      "pic": "http://localhost:3001/images/users/user-image.png",
+      "mobile": "",
+      "email": "",
+      "address": "",
+      "password": ""
+    },
+    {
+      "id": 2,
+      "name": "Abu Bakar",
+      "pic": "http://localhost:3001/images/users/user-image.png",
+      "mobile": "",
+      "email": "",
+      "address": "",
+      "password": ""
+    },
+    {
+      "id": 3,
+      "name": "Junaid Younas",
+      "pic": "http://localhost:3001/images/users/user-image.png",
+      "mobile": "",
+      "email": "",
+      "address": "",
+      "password": ""
+    },
+    {
+      "id": 4,
+      "name": "Hamza Ali",
+      "pic": "/images/users/user-image.png",
+      "mobile": "",
+      "email": "",
+      "address": "",
+      "password": ""
+    },
+    {
+      "id": 5,
+      "name": "Nouman Ali",
+      "pic": "http://localhost:3001/images/users/user-image.png",
+      "mobile": "",
+      "address": "",
+      "password": ""
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "date": "",
+      "status": "",
+      "userId": 1,
+      "paymnetMethod": "COD",
+      "paymentStatus": "",
+      "shipmentStatus": "",
+      "products": [
+        {
+          "productId": 1,
+          "cartQty": 1
+        },
+        {
+          "productId": 3,
+          "cartQty": 2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "date": "",
+      "status": "",
+      "userId": 1,
+      "paymnetMethod": "COD",
+      "paymentStatus": "",
+      "shipmentStatus": "",
+      "products": [
+        {
+          "productId": 1,
+          "cartQty": 1
+        },
+        {
+          "productId": 3,
+          "cartQty": 2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "date": "",
+      "status": "",
+      "userId": 1,
+      "paymnetMethod": "COD",
+      "paymentStatus": "",
+      "shipmentStatus": "",
+      "products": [
+        {
+          "productId": 1,
+          "cartQty": 1
+        },
+        {
+          "productId": 3,
+          "cartQty": 2
+        }
+      ]
+    }
+  ]
+}
